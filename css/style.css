@@ -282,7 +282,7 @@ img {
 
 /* Hero Section */
 .hero {
-    background: url(../img/movingtruck.gif) no-repeat center center/cover;
+    background: url('../img/movingtruck2.gif') no-repeat center center/cover;
     min-height: 120vh;
     display: flex;
     align-items: center;
@@ -500,26 +500,11 @@ img {
     margin-bottom: 1rem;
     /* position: relative; */
 }
-
-/* .about-text h2::after{
-    content: "";
-    display: block;
-    width: 60px;
-    height: 3px;
-    background-color: #00b300;
-    margin-top: 8px;
-} */
-
 .about-text p {
     line-height: 1.7;
     color: #444;
     margin-bottom: 1rem;
 }
-
-/* .about-text strong {
-    color: #008000;
-} */
-
 .about-image {
     flex: 1 1 400px;
     text-align: center;
